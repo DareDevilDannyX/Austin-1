@@ -1,0 +1,27 @@
+html {
+    background:url(https://i.pinimg.com/originals/27/80/b7/2780b77c977e86f57fe54b5f9587fe5b.jpg);
+}
+img {
+    border: solid yellow 20px;
+    width: 900px;
+}
+h1 {
+    color:White;
+    font-size:100px;
+    border: solid yellow 20px;
+    text-align:center;
+    
+}
+p {
+    color:red;
+    font-size:40px;
+    text-align:center;
+    border: solid red;
+    background:black;
+}
+center {
+    display:flex;
+}
+button {
+    width:100px;
+}
